@@ -1,3 +1,3 @@
-# CTF
+# Resources
 
-9/19/2020 - Moving all CTF content from ~/Infosec to ~/CTF
+I'm gonna use this to host stuff that I find, and/or need for droppers and scripts.  
